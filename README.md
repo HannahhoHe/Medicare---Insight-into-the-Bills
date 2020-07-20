@@ -12,7 +12,7 @@ For these providers who tend to charge higher, do they file the claims more on s
 
 
 
-In the following plot, the bar graph gives a visualization of distribution of bills across different apc services, colored by classes of providers.   
+In the following plot, the bar graph gives a visualization of distribution of total bills across different apc services, colored by providers from HiCharge and RegularCharge classes.   
 
 
 
