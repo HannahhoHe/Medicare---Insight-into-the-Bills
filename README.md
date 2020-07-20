@@ -10,7 +10,9 @@ To evaluate if every provider charges equally compared to the peers, all the cha
 
 For these providers who tend to charge higher, do they file the claims more on some specific apc? In other words, are they more specialists providers? To analyze this, I classified the providers into "RegularCharge" vs. "HiCharge" from the above blue heatmap, with the providers in the latter catogy having a value larger or equal to 15. This led to a total of 650 providers (17%) in the HiCharge class. 
 
-In the following plot, the bar graph provides a visualization of distribution of bills across different apc services, colored by different class of providers.   
+
+
+In the following plot, the bar graph gives a visualization of distribution of bills across different apc services, colored by classes of providers.   
 
 
 
