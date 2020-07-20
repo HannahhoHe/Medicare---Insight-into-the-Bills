@@ -3,6 +3,3 @@ The Medicare data from Kaggle cms-medicare database covers the US nationwide med
 
 ![Figure1](OutPatientCharges.png)
 
-![ML](pic.png)
-
-
