@@ -1,6 +1,6 @@
 Data are from Kaggle CMS Medicare database, which covers the US nationwide Medicare bills from 3770 unique providers during the years of 2011-2015. 
 # 1st asset - Do some providers bill higher than others? 
-## By providers, and by types of services
+
 This heatmap displays the charges (in US dollars) per outpatient service, listed with different providers (i.e., provider_id), and with different type of services (i.e., Ambulatory Payment Classification, apc, n=42, labeled as "None-apc"). This plot shows that the amounts of charges primarily depend on the type of services.  
 ![Figure1](OutPatientCharges.png)     
 
