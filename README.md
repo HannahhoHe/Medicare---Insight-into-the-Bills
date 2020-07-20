@@ -13,6 +13,6 @@ For these providers who tend to charge higher, do they file the claims more on s
 ![Figure3](Providersbyapc.png)
 
 
-Can a different US state's standard affect the current analysis? In this plot, we analyzed where (which state) the providers locate. The top five US states that have the highest numbers of HiCharge providers are CA, NY, CT, MA, and NJ. However, except MA and CT, these states also have fair amounts of RegularCharge providers, demonstrating that the pricier charge from the HiCharge providers is not due to different laws and yet occurs perferrentially in some states.               
+Can a different US state's standard affect the current analysis? In this plot, we analyzed where (which state) the providers locate. The top five US states that have the highest numbers of HiCharge providers are CA, NY, MA, CT, and NJ. However, except MA and CT, three of the states also have a fair amount of RegularCharge providers, demonstrating that the pricier charge behavior is not due to different state's standard and yet occurs perferrentially in some of them.               
 
 ![Figure4](ProvidersbyState.png)
