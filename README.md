@@ -12,3 +12,6 @@ For these providers who tend to charge higher, do they file the claims more on s
 
 ![Figure3](Providersbyapc.png)
 
+
+For these providers who tend to charge higher, do they file the claims more on some specific apc? In other words, are they tied to a certain specialists? To analyze this, I classified the providers into "RegularCharge" vs. "HiCharge" from the above blue heatmap, with the providers in the latter having a value larger or equal to 15. This led to a total of 650 providers (17%) in the HiCharge class. As shown below, the resulting distribution of total bills indicates that the HiCharge providers provide a comparable variety of services to the RegularCharge providers, revealing that the providers from both classes have a similar distribution of types of hospitals.      
+![Figure4](ProvidersbyState.png)
