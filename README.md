@@ -4,6 +4,6 @@ Data are from Kaggle CMS Medicare database, which covers the US nationwide Medic
 This heatmap displays the charges (in US dollars) per outpatient service, listed with different providers (i.e., provider_id), and with different type of services (i.e., Ambulatory Payment Classification, apc, n=42, labeled as "None-apc"). This plot shows that the amounts of charges primarily depend on the type of services.  
 
 ![Figure1](OutPatientCharges.png)     
-To evaluate if every provider charges equally, all the charges were normalized by the corresponding apc bills. The resulting plot shows that certain groups of providers tend to charge higher than others, irrespective types of apc services (i.e., see the providers with persistent horizontal light blues).   
+To evaluate if every provider charges equally compared to the peers, all the charges were normalized by the corresponding apc bills. The resulting plot shows that certain groups of providers tend to charge higher than others, irrespective types of apc services (i.e., see the providers with persistent horizontal light blues).   
 ![Figure2](OutPatientChargesNorm.png)
 
