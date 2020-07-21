@@ -25,7 +25,7 @@ The answer is negative. In fact, there are more HiCharge providers rated as "Bel
 ![Figure2g](PatientExperience.png)
 
 
-## Do the HiCharge providers have better overall rating?
+## Do the HiCharge providers have a better overall rating?
 The distribution of providers from both calss appears similar to each other. 
 ![Figure2f](hospital_overall_rating.png)
 
