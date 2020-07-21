@@ -1,4 +1,4 @@
-This is for the project entitled [Score hospitals by the billing behavior](https://github.com/HannahhoHe/Medicare---Insight-into-the-Bills/blob/master/README_Intro.md). In this asset, I use data are from Kaggle CMS Medicare database, which covers the US nationwide Medicare bills from 3770 unique providers during the years of 2011-2015.
+This is for the project entitled [Score hospitals by the billing behavior](https://github.com/HannahhoHe/Medicare---Insight-into-the-Bills/blob/master/README_Intro.md). In this asset, I use data are from [Kaggle CMS Medicare database](https://www.kaggle.com/cms/cms-medicare), which covers the US nationwide Medicare bills from 3770 unique providers during the years of 2011-2015.
 [See the codings](https://github.com/HannahhoHe/Medicare---Insight-into-the-Bills/blob/master/CROLChallenges_Section1.ipynb).
 
 # 1st asset - Do some providers bill higher than others? 
