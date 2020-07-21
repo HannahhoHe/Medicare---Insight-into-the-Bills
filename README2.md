@@ -27,3 +27,6 @@ The answer is negative. In fact, there are more HiCharge providers rated as "Bel
 The distribution of providers from both calss appears similar to each other. 
 ![Figure2f](hospital_overall_rating.png)
 
+#Conclusion
+In general, a higher bill does not seem correlated with a better quality service. However, some may lower the patient readmission rate after treatment.  
+
