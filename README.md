@@ -19,4 +19,5 @@ Can differing standards (i.e. laws, cost of living) among US states account for 
 
 ![Figure4](ProvidersbyState.png)
 
-In conclusion, it is true that some providers tend to bill higher than others irrespective of the type of services. 
+# Conclusion
+It is true that some providers tend to bill higher than others irrespective of the type of services. 
