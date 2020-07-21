@@ -11,3 +11,4 @@ In this asset, HiCharge providers (orange) and RegularCharge providers (blue) ar
 
 ![Figure2d](Timeliness.png)
 ![Figure2e](EfficientUseimaging.png)
+![Figure2c](EffectivenessofCare.png)
