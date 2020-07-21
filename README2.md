@@ -4,6 +4,7 @@ This is for the project entitled [Score hospitals by the billing behavior](https
 # 2nd asset - Are the higher bills associated with quality service? 
 In this asset, HiCharge providers (orange) and RegularCharge providers (blue) are evaluated with factors associated with quality service.  
 ## Do the HiCharge providers treat patients with better outcome?
+Below the bar graphs show the distribution of providers with the readmission and mortality rates. The results demonstrated that the providers from the HiCharge class (orange) have an improved readmission rate as there are more of them with "Below Average" than with "Above Average", in contrast to the pattern from the RegularCharge providers (blue).     
 
 ![Figure2a](Readmission.png)
 ![Figure2b](mortality.png)
