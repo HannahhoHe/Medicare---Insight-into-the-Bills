@@ -4,3 +4,6 @@ In this asset, HiCharge providers (orange) and RegularCharge providers (blue) ar
 - Do the HiCharge providers treat the patients with better outcome?
 
 ![Figure2a](Readmission.png)|![Figure2a](mortality.png)
+
+- Do the HiCharge providers are more effecieint?
+![Figure2a](EffectivenessofCare.png)|![Figure2a](mortality.png)
