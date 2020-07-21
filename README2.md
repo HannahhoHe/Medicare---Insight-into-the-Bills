@@ -30,5 +30,5 @@ The distribution of providers with different rates appears to be similar between
 ![Figure2f](hospital_overall_rating.png)
 
 # Conclusion
-In general, a higher bill does not seem correlated with a better quality service. However, some may lower the patient readmission rate after treatment.  
+In general, a higher bill does not seem correlated with a better quality service. However, some may lower the patient readmission after treatment.  
 
