@@ -5,7 +5,7 @@ This heatmap displays the charges (in US dollars) per outpatient service, listed
 ![Figure1](OutPatientCharges.png)     
 
 
-To evaluate if every provider charges equally compared to the peers, all the charges were normalized by the corresponding apc bills. The resulting plot shows that certain groups of providers tend to charge higher than others, irrespective types of apc services (i.e., see the providers with a persistent horizontal light-blue pattern).   
+To evaluate if every provider charges equally compared to their peers, all the charges were normalized by the corresponding apc bills. The resulting plot shows that certain groups of providers tend to charge higher than others, irrespective of the types of apc services (i.e., see the providers with a persistent horizontal light-blue pattern).   
 ![Figure2](OutPatientChargesNorm.png)
 
 For these providers who tend to charge higher, do they file the claims more on some specific apc? In other words, are they tied to a certain specialists? To analyze this, I classified the providers into "RegularCharge" vs. "HiCharge" from the above blue heatmap, with the providers in the latter having a value larger or equal to 15. This led to a total of 650 providers (17%) in the HiCharge class. As shown below, the resulting distribution of total bills indicates that the HiCharge providers provide a comparable variety of services to the RegularCharge providers, revealing that the providers from both classes have a similar distribution of types of hospitals.      
@@ -17,4 +17,4 @@ Can a different US state's standard affect the current analysis? In this plot, w
 
 ![Figure4](ProvidersbyState.png)
 
-In conclusion, some providers do tend to bill higher than others irrespective the type of services. 
+In conclusion, some providers do tend to bill higher than others irrespective of the type of services. 
