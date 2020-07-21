@@ -19,6 +19,7 @@ Here, I chose measures of Timeliness of Care, Use Imaging Efficiently, and an ov
 ![Figure2c](EffectivenessofCare.png)
 
 ## Do the HiCharge providers give a better experience for patients?
+The answer is negative. In fact, there are more HiCharge providers rated as "Below Average" than "Average" from patients perspective. 
 ![Figure2g](PatientExperience.png)
 
 
