@@ -15,3 +15,8 @@ In this asset, HiCharge providers (orange) and RegularCharge providers (blue) ar
 
 - Do the HiCharge providers give a better experience for patients?
 ![Figure2g](PatientExperience.png)
+
+
+- Do the HiCharge providers have better overall rating?
+![Figure2f](hospital_overall_rating.png)
+
