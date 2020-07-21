@@ -26,7 +26,7 @@ The answer is negative. In fact, there are more HiCharge providers rated as "Bel
 
 
 ## Do the HiCharge providers have a better overall rating?
-The distribution of providers from both classes appears to be similar to each other. 
+The distribution of providers with different rates appears to be similar between the two classes. 
 ![Figure2f](hospital_overall_rating.png)
 
 # Conclusion
