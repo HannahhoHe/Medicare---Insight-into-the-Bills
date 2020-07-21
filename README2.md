@@ -10,7 +10,7 @@ Below the bar graphs show the distribution of providers with the readmission and
 ![Figure2b](mortality.png)
 
 
-## Do the HiCharge providers are more effecieint?
+## Are the HiCharge providers more effecieint?
 
 ![Figure2d](Timeliness.png)
 ![Figure2e](EfficientUseimaging.png)
