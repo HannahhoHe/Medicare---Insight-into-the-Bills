@@ -12,3 +12,10 @@ In this asset, HiCharge providers (orange) and RegularCharge providers (blue) ar
 ![Figure2d](Timeliness.png)
 ![Figure2e](EfficientUseimaging.png)
 ![Figure2c](EffectivenessofCare.png)
+
+
+- Do the HiCharge providers more safe?
+![Figure2f](SafetyCare.png)
+
+- Do the HiCharge providers give a better experience for patients?
+![Figure2g](PatientExperience.png)
