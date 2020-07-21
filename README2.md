@@ -6,7 +6,7 @@ From the [1st asset](https://github.com/HannahhoHe/Medicare---Insight-into-the-B
 Here in the 2nd asset, the resultant HiCharge providers (orange) and RegularCharge providers (blue) are evaluated with factors associated with quality service.
 
 ## Do the HiCharge providers treat patients with better outcome?
-Below the bar graphs show the distribution of providers with the readmission and mortality rates. The results demonstrated that the providers from the HiCharge class (orange) have an improved readmission rate as there are more of them with "Below Average" than with "Above Average", in contrast to the pattern from the RegularCharge providers (blue). However, these HiCharge providers do not reduce the mortality rate but, on the other hand, have more than one-third with "Above Average", substantially higher than that of the RegularCharge class.          
+Below the bar graphs show the distribution of providers with the readmission and mortality rates. The results demonstrated that the providers from the HiCharge class (orange) have an improved readmission rate as there are more of them with "Below Average" than with "Above Average", in contrast to the pattern from the RegularCharge providers (blue). However, these HiCharge providers do not seem to reduce the mortality rate but, on the other hand, have more than one-third with "Above Average", substantially higher than that of the RegularCharge class.          
 
 ![Figure2a](Readmission.png)
 ![Figure2b](mortality.png)
