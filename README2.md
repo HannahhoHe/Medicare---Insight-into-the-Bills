@@ -11,7 +11,7 @@ Below the bar graphs show the distribution of providers with the readmission and
 
 
 ## Are the HiCharge providers more effecieint?
-Here, I chose Timeliness, use imaging efficiently, and an overal effectiveness of care as metrics to determine if the providers are in general more efficient.
+Here, I chose measures of Timeliness of Care, Use Imaging Efficiently, and an overall Effectiveness of Care. From the three plots, it can be concluded that the HiCharge providers have a poor Timeliness rank (peaked with "Below Average"), and only at the average level in terms of efficiency of either using imaging systems or in general.      
 
 
 ![Figure2d](Timeliness.png)
