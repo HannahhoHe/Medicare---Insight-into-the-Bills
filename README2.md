@@ -8,6 +8,6 @@ In this asset, HiCharge providers (orange) and RegularCharge providers (blue) ar
 
 
 - Do the HiCharge providers are more effecieint?
-![Figure2c](EffectivenessofCare.png)
+
 ![Figure2d](Timeliness.png)
 ![Figure2e](EfficientUseimaging.png)
