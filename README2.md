@@ -2,7 +2,7 @@ This is for the project entitled [Score hospitals by the billing behavior](https
 [See the codings](https://github.com/HannahhoHe/Medicare---Insight-into-the-Bills/blob/master/CROLChallenges_Section1.ipynb).
 
 # 2nd asset - Are the higher bills associated with quality service? 
-From the 1st asset, providers are classified with HiCharge or Regular Charge.
+From the [1st asset](https://github.com/HannahhoHe/Medicare---Insight-into-the-Bills/blob/master/README.md), providers are classified as HiCharge vs. Regular Charge.
 In this asset, HiCharge providers (orange) and RegularCharge providers (blue) are evaluated with factors associated with quality service.
 
 ## Do the HiCharge providers treat patients with better outcome?
