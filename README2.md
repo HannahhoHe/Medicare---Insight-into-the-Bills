@@ -2,8 +2,9 @@ This is for the project entitled [Score hospitals by the billing behavior](https
 [See the codings](https://github.com/HannahhoHe/Medicare---Insight-into-the-Bills/blob/master/CROLChallenges_Section1.ipynb).
 
 # 2nd asset - Are the higher bills associated with quality service? 
+From the 1st asset, providers are classified with HiCharge or Regular Charge.
 In this asset, HiCharge providers (orange) and RegularCharge providers (blue) are evaluated with factors associated with quality service.
-Note: Providers are classified with HiCharge or Regular Charge in the 1st asset.
+
 ## Do the HiCharge providers treat patients with better outcome?
 Below the bar graphs show the distribution of providers with the readmission and mortality rates. The results demonstrated that the providers from the HiCharge class (orange) have an improved readmission rate as there are more of them with "Below Average" than with "Above Average", in contrast to the pattern from the RegularCharge providers (blue). However, these HiCharge providers do not reduce the mortality rate but, on the other hand, have more than one-third with "Above Average", substantially higher than that of the RegularCharge class.          
 
