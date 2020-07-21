@@ -3,7 +3,8 @@ Data are from Kaggle CMS Medicare database, which covers the US nationwide Medic
 In this asset, HiCharge providers (orange) and RegularCharge providers (blue) are evaluated with factors associated with quality service.  
 - Do the HiCharge providers treat the patients with better outcome?
 
-![Figure2a](Readmission.png)|![Figure2b](mortality.png)
+![Figure2a](Readmission.png)|
+![Figure2b](mortality.png)
 
 
 - Do the HiCharge providers are more effecieint?
